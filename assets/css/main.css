@@ -882,7 +882,7 @@ input, select, textarea {
 	}
 
 		ul.icons li {
-			display: inline-block;
+			display: block;
 			padding: 0 0.75em 0 0;
 		}
 
