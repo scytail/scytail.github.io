@@ -600,6 +600,10 @@ input, select, textarea {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		vertical-align: middle;
+		width: 60%;
+		height: 60%;
+		object-fit: contain;
 	}
 
 		.icon:before {
@@ -1270,7 +1274,7 @@ input, select, textarea {
 		#header .logo {
 			width: 5.5rem;
 			height: 5.5rem;
-			line-height: 5.5rem;
+			line-height: 5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
 		}
