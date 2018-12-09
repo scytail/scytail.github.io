@@ -1531,6 +1531,16 @@ input, select, textarea {
 			border-radius: 4px;
 			opacity: 0;
 		}
+			#main article .logo{
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+			}
+				#main article .logo img {
+					width: 10rem;
+					display: inherit;
+					margin: inherit;
+				}
 
 			#main article.active {
 				-moz-transform: translateY(0);
